@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "565161237631",
+    "firebase_url": "https://quickpollproject-default-rtdb.firebaseio.com",
+    "project_id": "quickpollproject",
+    "storage_bucket": "quickpollproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565161237631:android:ddfbf464ee97475935334a",
+        "android_client_info": {
+          "package_name": "com.example.quickpoll"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2k5kD6W3KChEoRpi16zRgpzikcutlHNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

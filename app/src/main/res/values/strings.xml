@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuickPoll</string>
+    <string name="app_title">QuickPoll App</string>
+    <string name="app_subtitle">Powered by Firebase. Driven by You.</string>
+    <string name="main_image_desc">An image with the QuickPoll logo and several illustrated characters.</string>
+</resources>
